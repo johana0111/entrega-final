@@ -3,6 +3,17 @@
 	margin: 0;
 }
 
+// Bordes
+
+.infSup{
+	border-top: 3px solid map-get($map:$paleta, $key: 'uno');
+	border-bottom: px solid map-get($map:$paleta, $key: 'uno');
+}
+
+.inferior
+{
+
+}
 // Fondos
 
 .bg-brown{
